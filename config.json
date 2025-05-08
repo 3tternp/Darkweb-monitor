@@ -1,0 +1,7 @@
+{
+  "urls": [
+    "http://example.onion",
+    "http://example2.onion"
+  ],
+  "query": "keyword"
+}
