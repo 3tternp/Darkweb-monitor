@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+darkweb_monitor.log
+dist/
+build/
+*.egg-info/
+darkweb_monitor.db
